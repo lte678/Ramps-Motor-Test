@@ -84,6 +84,7 @@
     <None Include="RampsMotorTest.ino">
       <FileType>CppCode</FileType>
     </None>
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="__vm\.RampsMotorTest.vsarduino.h" />

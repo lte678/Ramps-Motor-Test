@@ -16,6 +16,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="RampsMotorTest.ino" />
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="__vm\.RampsMotorTest.vsarduino.h">
