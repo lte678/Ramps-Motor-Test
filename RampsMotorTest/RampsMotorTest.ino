@@ -211,7 +211,7 @@ void loop() {
 				Serial.println("help");
 			}
 			else {
-				Serial.println("Type 'help' to list available commands"); //Eine Befehl würde falsch eingetippt, es sagt dir das to den Help Befehl benutzen sollst 
+				Serial.println("Type 'help' to list available commands"); //Ein Befehl wurde falsch eingetippt, es sagt dir, dass du den Help Befehl benutzen sollst 
 			}
 
 			inputString = ""; //Alle betroffene Variabeln resetten
